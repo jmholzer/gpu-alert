@@ -1,0 +1,5 @@
+{
+    "sender": {
+        "email": "<your SES-enabled email>"
+    }
+}

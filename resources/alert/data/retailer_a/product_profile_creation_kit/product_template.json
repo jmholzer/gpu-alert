@@ -1,0 +1,15 @@
+{
+    "time_updated": "",
+    "products": {
+        "product0": {
+            "name": "",
+            "stock": false,
+            "alert": false,
+            "time_updated": "",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        }
+    }
+}

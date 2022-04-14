@@ -1,0 +1,14 @@
+{
+    "recipient00": {
+        "email": "a@example.com"
+    },
+    "recipient01": {
+        "email": "a@example.com"
+    },
+    "recipient02": {
+        "email": "b@example.com"
+    },
+    "recipient03": {
+        "email": "c@example.eu"
+    }
+}
