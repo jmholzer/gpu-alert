@@ -1,0 +1,14 @@
+[
+    {
+        "product": "RTX-3070",
+        "vendor": "alternate"
+    },
+    {
+        "product": "RTX-3080",
+        "vendor": "alternate"
+    },
+    {
+        "product": "RTX-3090",
+        "vendor": "alternate"
+    }
+]

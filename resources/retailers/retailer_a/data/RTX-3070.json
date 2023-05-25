@@ -1,0 +1,335 @@
+{
+    "time_updated": "2023-05-14 20:42:47",
+    "products": {
+        "product0": {
+            "name": "ZOTACGeForce RTX 3070 AMP HOLO, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1199.0,
+            "url": "https://www.alternate.de/ZOTAC/GeForce-RTX-3070-AMP-HOLO-Grafikkarte/html/product/1702466",
+            "target": false,
+            "priority": 10000
+        },
+        "product1": {
+            "name": "ZOTACGeForceRTX 3070 Twin Edge OC WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1099.0,
+            "url": "https://www.alternate.de/ZOTAC/GeForceRTX-3070-Twin-Edge-OC-WHITE-Grafikkarte/html/product/1700900",
+            "target": false,
+            "priority": 10000
+        },
+        "product2": {
+            "name": "INNO3D GeForce RTX 3070 Twin X2 OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product3": {
+            "name": "ASUSGeForce RTX 3070 TUF GAMING OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1059.0,
+            "url": "https://www.alternate.de/ASUS/GeForce-RTX-3070-TUF-GAMING-OC-Grafikkarte/html/product/1679871",
+            "target": true,
+            "priority": 1
+        },
+        "product4": {
+            "name": "ASUSGeForce RTX 3070 ROG-STRIX GAMING OC WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product5": {
+            "name": "ASUSGeForce RTX 3070 ROG-STRIX GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product6": {
+            "name": "ASUSGeForce RTX 3070 ROG-STRIX GAMING OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1119.0,
+            "url": "https://www.alternate.de/ASUS/GeForce-RTX-3070-ROG-STRIX-GAMING-OC-Grafikkarte/html/product/1677330",
+            "target": false,
+            "priority": 10000
+        },
+        "product7": {
+            "name": "PalitGeForce RTX 3070 GamingPro 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product8": {
+            "name": "ASUSGeForce RTX 3070 DUAL OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 964.0,
+            "url": "https://www.alternate.de/ASUS/GeForce-RTX-3070-DUAL-OC-Grafikkarte/html/product/1677326",
+            "target": false,
+            "priority": 10000
+        },
+        "product9": {
+            "name": "ASUSGeForce RTX 3070 ROG-STRIX GAMING WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1149.0,
+            "url": "https://www.alternate.de/ASUS/GeForce-RTX-3070-ROG-STRIX-GAMING-WHITE-Grafikkarte/html/product/1718920",
+            "target": false,
+            "priority": 10000
+        },
+        "product10": {
+            "name": "ASUSGeForce RTX 3070 TUF GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product11": {
+            "name": "ASUSGeForce RTX 3070 EK, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product12": {
+            "name": "GIGABYTEGeForce RTX 3070 Eagle OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product13": {
+            "name": "PalitGeForce RTX 3070 GamingPro OC 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product14": {
+            "name": "PalitGeForce RTX 3070 GameRock 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product15": {
+            "name": "GainwardGeForce RTX 3070 Phoenix, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product16": {
+            "name": "GainwardGeForce RTX 3070 Phantom 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product17": {
+            "name": "MSIGeForce RTX 3070 SUPRIM 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product18": {
+            "name": "GainwardGeForce RTX 3070 Phoenix GS, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product19": {
+            "name": "INNO3D GeForce RTX 3070 iChill X4, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product20": {
+            "name": "GIGABYTEGeForce RTX 3070 Gaming OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product21": {
+            "name": "GIGABYTEGeForce RTX 3070 Vision OC 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product22": {
+            "name": "ZOTACGeForce RTX 3070 Twin Edge OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product23": {
+            "name": "AORUSGeForce RTX 3070 AORUS MASTER 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product24": {
+            "name": "MSIGeForce RTX 3070 VENTUS 2X OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product25": {
+            "name": "MSIGeForce RTX 3070 VENTUS 3X OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product26": {
+            "name": "EVGAGeForce RTX 3070 FTW3 ULTRA, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1014.0,
+            "url": "https://www.alternate.de/EVGA/GeForce-RTX-3070-FTW3-ULTRA-Grafikkarte/html/product/1687863",
+            "target": false,
+            "priority": 10000
+        },
+        "product27": {
+            "name": "EVGAGeForce RTX 3070 XC3 BLACK GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 815.0,
+            "url": "https://www.alternate.de/EVGA/GeForce-RTX-3070-XC3-BLACK-GAMING-Grafikkarte/html/product/1687858",
+            "target": false,
+            "priority": 10000
+        },
+        "product28": {
+            "name": "EVGAGeForce 3070 XC3 ULTRA GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product29": {
+            "name": "PalitGeForce RTX 3070 Jetstream 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product30": {
+            "name": "INNO3D GeForce RTX 3070 iChill X3, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product31": {
+            "name": "MSIGeForce RTX 3070 SUPRIM X 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 1149.0,
+            "url": "https://www.alternate.de/MSI/GeForce-RTX-3070-SUPRIM-X-8G-Grafikkarte/html/product/1693007",
+            "target": false,
+            "priority": 10000
+        },
+        "product32": {
+            "name": "GainwardGeForce RTX 3070 Phantom GS 8G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:47",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        }
+    }
+}
