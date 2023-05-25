@@ -1,7 +1,7 @@
 # GPU Alert
 
 [![Python version](https://img.shields.io/badge/python-3.9-blue.svg)](https://pypi.org/project/kedro/)
-[![License](https://img.shields.io/github/license/jmholzer/gpu-alert)]
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/ambv/black)
 
 gpu-alert is a Python application that sends email alerts when retailers receive stock. Originally used to find GPU stock availability during the 2020-21 shortage.
