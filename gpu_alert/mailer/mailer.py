@@ -5,6 +5,16 @@ from typing import Any, Dict, Iterable
 import boto3
 from botocore.exceptions import ClientError
 
+"""
+CODE REVIEW
+
+1. Hardcoding paths and variables, should use config or env vars.
+2. Using `print` for displaying output, should use logging.
+3. Refactor send_email for reuse in send_to_all to avoid duplication.
+4. Inefficient to use loop to send many emails, should use batch API.
+5. Excessive use of disk I/O to read static data, should load into memory once.
+"""
+
 
 class Mailer:
     """

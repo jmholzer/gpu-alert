@@ -10,6 +10,17 @@ from gpu_alert.utils import generate_time_stamp
 from .search import Search
 
 
+"""
+CODE REVIEW
+
+1. No exception handling for network and parsing failures
+2. Make stock regex configurable rather than hardcoded to adapt to retailer changes
+3. Non-parsable prices currently return `inf`, it is not immediately clear why this works,
+    this should be explicitly documented
+4. Tight coupling with DOM, investigate using an API if possible
+"""
+
+
 class SearchRetailerA(Search):
     """
     A class inheriting from `Search`, containing the specific methods to parse

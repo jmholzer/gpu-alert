@@ -10,6 +10,21 @@ from gpu_alert.product import Product
 from gpu_alert.utils import generate_time_stamp
 
 
+"""
+CODE REVIEW
+
+1. No exception handling for IO or requests exceptions, these cause the
+    script to crash currently
+2. Replace magic number 2 with a constant
+3. Same print / logging complaint as elsewhere
+4. Paths and file names are hardcoded, should be configurable
+5. Session object is not explicitly closed, curretly closed by garbage collector
+6. Race condition in '_update_profile' method, not currently extendible to
+     multiple threads
+7. Docstrings are poor
+"""
+
+
 class Search(ABC):
     """
     A `Search` object controls the update loop for one product at one retailer.

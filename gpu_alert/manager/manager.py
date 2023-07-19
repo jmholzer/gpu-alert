@@ -1,12 +1,23 @@
 import json
 import time
 from pathlib import Path
-from typing import List
 
 import numpy
 
 from gpu_alert.mailer import Mailer
-from gpu_alert.search import Search, SearchRetailerA
+from gpu_alert.search import SearchRetailerA
+
+
+"""
+CODE REVIEW
+
+1. Strategy for generating a time interval in _generate_time_interval is
+    unnecessarily complex.
+2. Logic for getting a concrete `Search` implementation for a given vendor is
+    unnecessarily complicated.
+3. Inconsistent strategy to initialise attributes in `Manager`.
+4. Doc strings could be more informative.
+"""
 
 
 class Manager:
@@ -42,9 +53,9 @@ class Manager:
         """
         self._alert_profile_name = alert_profile_name
         self._mailer = Mailer("me")
-        self._searches = self._create_searches()
+        self._create_searches()
 
-    def _create_searches(self) -> List[Search]:
+    def _create_searches(self) -> None:
         """
         Create searches for the specified retailers, initialized with the target products.
 
@@ -61,7 +72,6 @@ class Manager:
                 vendor_class_map[alert["vendor"]](alert["product"], self._mailer)
                 for alert in json.load(alert_profile)
             ]
-        return self._searches
 
     def _generate_time_interval(self) -> float:
         """

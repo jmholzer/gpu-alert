@@ -10,6 +10,24 @@ import numpy
 from gpu_alert.utils import generate_time_stamp
 
 
+"""
+CODE REVIEW
+
+1. Bare exception used, shows that we don't know what exceptions to expect
+    Logging, rather than `print` would help with debugging
+2. Magic numbers used, should be declared as constants (e.g. 5 minutes)
+3. File paths are hardcoded, should be using config or env vars
+4. Very simple while True / sleep loop used, which can cause the script to
+    be unresponsive to signals
+5. Monotonic time (`time.monotonic`) for more accurate time comparisons rather
+    than system clock, which can move backwards
+6. _generate_time_interval could be a static method, and repeats logic in `Manager`,
+    should DRY this
+7. Importing `numpy` is over the top for generating a random number
+8. Docstrings do not match current methods and attributes
+"""
+
+
 class Product(ABC):
     """
     Product objects are instantiated when an Alert object finds
@@ -42,13 +60,13 @@ class Product(ABC):
     """
 
     _vendor: str
-    _availability: bool
 
     def __init__(self, product_data: Dict[str, Any]) -> None:
         self._stop_time = datetime.now() + timedelta(minutes=5)
         self._headers = self._read_request_headers()
         self._product_data = product_data
         self._send_alert_flag = False
+        self._availability = False
 
     def _read_request_headers(self) -> Dict[str, Any]:
         headers_file_path = Path(__file__).parents[2] / Path(

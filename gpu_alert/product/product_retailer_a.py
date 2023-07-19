@@ -6,6 +6,18 @@ from requests import Session
 from .product import Product
 
 
+"""
+CODE REVIEW
+
+1. Check HTTP response status before parsing
+2. Handle potential HTTP request exceptions, connection problems currently
+    result in a crash
+3. Move hardcoded string ('In den Warenkorb') to a class-level constant
+4. Use 'super().__init__(product_data)' for parent constructor, more pythonic
+5. Update docstring to match class methods and attributes
+"""
+
+
 class ProductRetailerA(Product):
     """
     A product watcher class specific to Retailer A, with methods to parse the
@@ -49,6 +61,6 @@ class ProductRetailerA(Product):
         parsed_product_page = BeautifulSoup(product_page.text, "html.parser")
 
         if parsed_product_page.find_all("a", {"title", "In den Warenkorb"}):
-            self.availability = True
+            self._availability = True
         else:
-            self.availability = False
+            self._availability = False
