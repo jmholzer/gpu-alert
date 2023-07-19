@@ -1,0 +1,245 @@
+{
+    "time_updated": "2023-05-14 20:42:33",
+    "products": {
+        "product0": {
+            "name": "ASUSGeForce RTX 3090 EK, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product1": {
+            "name": "ASUSGeForce RTX 3090 ROG STRIX OC WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product2": {
+            "name": "PalitGeForce RTX 3090 Gamerock OC 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product3": {
+            "name": "AORUSGeForce RTX 3090 AORUS XTREME 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product4": {
+            "name": "GainwardGeForce RTX 3090 Phantom GS 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product5": {
+            "name": "AORUSGeForce RTX 3090 AORUS XTREME WATERFORCE WB 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product6": {
+            "name": "INNO3D GeForce RTX 3090 ICHILL FROSTBITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product7": {
+            "name": "AORUSGeForce RTX 3090 AORUS XTREME WATERFORCE 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product8": {
+            "name": "GIGABYTEGeForce RTX 3090 Gaming OC 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product9": {
+            "name": "AORUSGeForce RTX 3090 AORUS MASTER 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product10": {
+            "name": "MSIGeForce RTX 3090 SUPRIM X 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product11": {
+            "name": "PalitGeForce RTX 3090 Gamerock 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product12": {
+            "name": "ZOTACGeForce RTX 3090 Trinity OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product13": {
+            "name": "MSIGeForce RTX 3090 Gaming X TRIO 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product14": {
+            "name": "ASUSGeForce RTX 3090 TUF OC GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product15": {
+            "name": "ASUSGeForce RTX 3090 ROG STRIX OC GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product16": {
+            "name": "EVGAGeForce RTX 3090 FTW3 ULTRA GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 2644.0,
+            "url": "https://www.<retailer_a>.de/EVGA/GeForce-RTX-3090-FTW3-ULTRA-GAMING-Grafikkarte/html/product/1673531",
+            "target": false,
+            "priority": 10000
+        },
+        "product17": {
+            "name": "EVGAGeForce RTX 3090 XC3 ULTRA GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product18": {
+            "name": "EVGAGeForce RTX 3090 FTW3 ULTRA HYBRID GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product19": {
+            "name": "PalitGeForce RTX 3090 GamingPro 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product20": {
+            "name": "GainwardGeForce RTX 3090 Phantom 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product21": {
+            "name": "GainwardGeForce RTX 3090 Phoenix 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product22": {
+            "name": "GIGABYTEGeForce RTX 3090 VISION OC 24G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product23": {
+            "name": "INNO3D GeForce RTX 3090 iChill X4, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:33",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        }
+    }
+}

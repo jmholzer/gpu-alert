@@ -1,0 +1,8 @@
+{
+    "Template": {
+        "TemplateName": "stock_alert",
+        "SubjectPart": "Stock Alert for {{product}} at {{retailer}}",
+        "HtmlPart": "<p>{{product}} stock found at <a href={{url}}>{{retailer}}</a>.</p><p>{{name}}</p><p>€ {{price}}</p><p>This email was sent at {{time}}.</p>",
+        "TextPart": "<p>{{product}} stock found at {{url}} at {{time}}.</p><p>{{name}}</p><p>€ {{price}}</p>\n"
+    }
+}

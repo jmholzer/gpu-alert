@@ -1,0 +1,335 @@
+{
+    "time_updated": "2023-05-14 20:42:05",
+    "products": {
+        "product0": {
+            "name": "ZOTACGeForce RTX 3080 AMP Holo, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 1659.0,
+            "url": "https://www.alternate.de/ZOTAC/GeForce-RTX-3080-AMP-Holo-Grafikkarte/html/product/1677985",
+            "target": false,
+            "priority": 10000
+        },
+        "product1": {
+            "name": "ZOTACGeForce RTX 3080 Trinity OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 1559.0,
+            "url": "https://www.alternate.de/ZOTAC/GeForce-RTX-3080-Trinity-OC-Grafikkarte/html/product/1677989",
+            "target": false,
+            "priority": 10000
+        },
+        "product2": {
+            "name": "GIGABYTEGeForce RTX 3080 Gaming OC WB 10GD, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product3": {
+            "name": "INNO3D GeForce RTX 3080 iChill X3, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product4": {
+            "name": "INNO3D GeForce RTX 3080 iChill X4, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product5": {
+            "name": "ASUSGeForce RTX 3080 TUF OC GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 1599.0,
+            "url": "https://www.alternate.de/ASUS/GeForce-RTX-3080-TUF-OC-GAMING-Grafikkarte/html/product/1672634",
+            "target": false,
+            "priority": 10000
+        },
+        "product6": {
+            "name": "ASUSGeForce RTX 3080 ROG STRIX GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product7": {
+            "name": "ASUSGeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product8": {
+            "name": "INNO3D GeForce RTX 3080 Twin X2 OC, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product9": {
+            "name": "INNO3D GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product10": {
+            "name": "ASUSGeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product11": {
+            "name": "PalitGeForce RTX 3080 Gamerock 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product12": {
+            "name": "GIGABYTEGeForce RTX 3080 Gaming OC 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product13": {
+            "name": "GIGABYTEGeForce RTX 3080 Vision OC 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product14": {
+            "name": "ASUSGeForce RTX 3080 EK, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product15": {
+            "name": "AORUSGeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product16": {
+            "name": "AORUSGeForce RTX 3080 AORUS MASTER 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product17": {
+            "name": "AORUSGeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 1849.0,
+            "url": "https://www.alternate.de/AORUS/GeForce-RTX-3080-AORUS-XTREME-WATERFORCE-WB-10G-Grafikkarte/html/product/1694051",
+            "target": false,
+            "priority": 10000
+        },
+        "product18": {
+            "name": "ASUSGeForce RTX 3080 TUF GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product19": {
+            "name": "EVGAGeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product20": {
+            "name": "GainwardGeForce RTX 3080 Phantom 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product21": {
+            "name": "EVGAGeForce RTX 3080 FTW3 GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product22": {
+            "name": "MSIGeForce RTX 3080 SUPRIM X 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product23": {
+            "name": "EVGAGeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product24": {
+            "name": "EVGAGeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 1290.0,
+            "url": "https://www.alternate.de/EVGA/GeForce-RTX-3080-XC3-ULTRA-GAMING-Grafikkarte/html/product/1674164",
+            "target": false,
+            "priority": 10000
+        },
+        "product25": {
+            "name": "AORUSGeForce RTX 3080 AORUS XTREME 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product26": {
+            "name": "MSIGeForce RTX 3080 GAMING Z TRIO 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product27": {
+            "name": "ASUSGeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product28": {
+            "name": "PalitGeForce RTX 3080 GamingPro 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product29": {
+            "name": "EVGAGeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product30": {
+            "name": "EVGAGeForce RTX 3080 XC3 GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product31": {
+            "name": "GainwardGeForce RTX 3080 Phoenix 10G, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        },
+        "product32": {
+            "name": "EVGAGeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2023-05-14 20:42:05",
+            "price": 0,
+            "url": "",
+            "target": false,
+            "priority": 10000
+        }
+    }
+}

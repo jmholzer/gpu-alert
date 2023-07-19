@@ -1,0 +1,9 @@
+credentials.json
+venv/*
+token.json
+*.swp
+*.un*
+*~
+*__pycache__*
+*.pkl
+*.html

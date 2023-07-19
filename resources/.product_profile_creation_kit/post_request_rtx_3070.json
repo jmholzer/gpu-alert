@@ -1,0 +1,33 @@
+{
+    "url": "https://www.<retailer_a>.de/mobile/listing.xhtml",
+    "headers": {
+        "Host": "www.<retailer_a>.de",
+        "Connection": "keep-alive",
+        "Content-Length": "276",
+        "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\"",
+        "Faces-Request": "partial/ajax",
+        "sec-ch-ua-mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+        "Content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+        "Accept": "*/*",
+        "Origin": "https://www.<retailer_a>.de",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "https://www.<retailer_a>.de/Grafikkarten/RTX-3070?lpf=2",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8"
+    },
+    "data": {
+        "lazyForm": "lazyForm",
+        "lpf": "2",
+        "t": "29309",
+        "lazyComponent": "lazyListingContainer",
+        "javax.faces.ViewState": "stateless",
+        "javax.faces.source": "lazyButton",
+        "javax.faces.partial.event": "click",
+        "javax.faces.partial.execute": "lazyButton lazyButton",
+        "javax.faces.behavior.event": "action",
+        "javax.faces.partial.ajax": "true"
+    }
+}

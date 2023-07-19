@@ -1,0 +1,35 @@
+{
+    "time_updated": "2021-05-10 21:25:33",
+    "products": {
+        "product0": {
+            "name": "RTX Dummy 0",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2021-04-01 12:00:00",
+            "price": 1000.0,
+            "url": "https://www.dummy.de",
+            "target": false,
+            "priority": 10000
+        },
+        "product1": {
+            "name": "RTX Dummy 1",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2021-04-01 12:00:00",
+            "price": 1000.0,
+            "url": "https://www.dummy.de",
+            "target": false,
+            "priority": 10000
+        },
+        "product2": {
+            "name": "RTX Dummy 2",
+            "stock": false,
+            "alert": false,
+            "time_updated": "2021-04-01 12:00:00",
+            "price": 1000.0,
+            "url": "https://www.dummy.de",
+            "target": false,
+            "priority": 10000
+        }
+    }
+}
