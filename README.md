@@ -10,4 +10,4 @@ Popular stock alert services send emails too slowly to secure an SKU. Self-hosti
 
 Made using Amazon Simple Email Service (SES) and BeautifulSoup4.
 
-https://user-images.githubusercontent.com/37243923/163427758-3c7bfeb7-7d6d-4827-93f7-dafd4c4ad9eb.mp4
+https://github.com/jmholzer/gpu-alert/assets/37243923/6d951481-d8fe-4e4c-9a99-4069369e2f2c
